@@ -20,4 +20,5 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 
     Status API Training Shop Blog About 
 
-
+add kashima 
+This is the readme.txt
